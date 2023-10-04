@@ -1,4 +1,4 @@
-// Viral Science www.viralsciencecreativity.com www.youtube.com/c/viralscience
+
 // IOT Smart Plant Monitoring System
 #define BLYNK_PRINT Serial   
 #include <SPI.h>
