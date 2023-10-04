@@ -1,4 +1,4 @@
-// Viral Science www.viralsciencecreativity.com www.youtube.com/c/viralscience
+
 // IOT Smart Plant Monitoring System
 #define BLYNK_TEMPLATE_ID "TMPL7XMq6x1f"
 #define BLYNK_TEMPLATE_NAME "project soil"
